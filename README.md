@@ -4,10 +4,10 @@
 ## Tasks completed 
 
 Semantic elements :
-- header added
-- nav added
-- main added
-- sections * 3 added
+- Header added
+- Nav added
+- Main added
+- Sections * 3 added
 - Aside element added 
 - Footer element centered 
 

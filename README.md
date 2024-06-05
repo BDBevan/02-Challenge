@@ -11,17 +11,23 @@ Semantic elements :
 - Aside element added 
 - Footer element centered 
 
-Alt attributes added on all images 
+## Alt attributes
+- Alt attributes added on all images 
 
-Page title updated
+## Page title
+- Page title updated
 
-CSS applications 
+## CSS applications 
+- Header background / element colours as per spec 
+- First three image heights are of 200px
+- Last three image heights are of 150px 
+- Footer padding is 30px and centered
 
-Header background / element colours as per spec 
-First three image heights are of 200px
-Last three image heights are of 150px 
-Footer padding is 30px and centered
 
+
+
+
+# Specification
 
 ### Semantic Elements 42%
 
